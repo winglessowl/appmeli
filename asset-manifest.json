@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//appmeli/static/css/main.7f97bc00.css",
-    "main.js": "//appmeli/static/js/main.76b9ae5f.js",
-    "index.html": "//appmeli/index.html",
-    "main.7f97bc00.css.map": "//appmeli/static/css/main.7f97bc00.css.map",
-    "main.76b9ae5f.js.map": "//appmeli/static/js/main.76b9ae5f.js.map"
+    "main.css": "/appmeli/static/css/main.7f97bc00.css",
+    "main.js": "/appmeli/static/js/main.76b9ae5f.js",
+    "index.html": "/appmeli/index.html",
+    "main.7f97bc00.css.map": "/appmeli/static/css/main.7f97bc00.css.map",
+    "main.76b9ae5f.js.map": "/appmeli/static/js/main.76b9ae5f.js.map"
   },
   "entrypoints": [
     "static/css/main.7f97bc00.css",
